@@ -1,6 +1,4 @@
-*
+/*
 !.gitignore
-!/themes/theme/
-!/themes/theme/*
-!/plugins/superplugin/
-!/plugins/superplugin/*
+!/themes/
+!/plugins/
