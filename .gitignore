@@ -2,3 +2,4 @@
 !.gitignore
 !/themes/theme
 !/plugins/helloi
+!/plugins/checker
